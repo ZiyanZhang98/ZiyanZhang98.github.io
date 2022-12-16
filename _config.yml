@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ziyan Zhang"
+  name   : "Zhang, Ziyan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am currently a postgraduate student at Shenzhen Institute for Quantum Sicene and Engineering, Southern University of Science and Technology. "
+  bio    : "I am currently a postgraduate student at Shenzhen Institute for Quantum Science and Engineering, 
+            Southern University of Science and Technology."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,17 +77,17 @@ footer:
       url: "https://github.com/ZiyanZhang98"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
   - scope:
       path: "_pages"
