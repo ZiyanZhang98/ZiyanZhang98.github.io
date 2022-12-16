@@ -67,6 +67,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ZiyanZhang98"
+    - label: "CV"
+      icon: "fas fa-fw fa-CV"
 
 footer:
   links:
