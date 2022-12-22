@@ -31,6 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 include:
   - _pages
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -78,16 +79,16 @@ footer:
 
 defaults:
   # # _posts
-  # - scope:
-  #     path: "_posts"
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: false
-  #     share: false
-  #     related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
