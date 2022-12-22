@@ -24,14 +24,13 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-# timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -78,7 +77,7 @@ footer:
       url: "https://github.com/ZiyanZhang98"
 
 defaults:
-  # # _posts
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -88,14 +87,16 @@ defaults:
       read_time: true
       comments: false
       share: false
-      related: false
+      related: true
+
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+
 
 # category_archive:
 #   type: liquid
