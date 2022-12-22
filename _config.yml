@@ -31,7 +31,7 @@ permalink: _pages/about
 
 include:
   - _pages
-  # - _posts
+  - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
