@@ -1,5 +1,5 @@
 ---
-permalink: /About
+permalink: /about
 title: "About"
 ---
 [yanfei] : https://scholar.google.com/citations?hl=en&user=GRj9Hk0AAAAJ&view_op=list_works&sortby=pubdate
