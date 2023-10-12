@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [MNS Group](https://mns-research.nl/) at [University of Amsterdam](https://www.uva.nl/), advised by Prof. [Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ&hl=zh-CN). Before joining UvA, I obtained my master of engineering in the [Superconducting Quantum Computing](https://siqse.sustech.edu.cn/Zh/Index/index?play=0), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
+I am a Ph.D. student in the [MNS Group](https://mns-research.nl/) at [University of Amsterdam](https://www.uva.nl/), advised by Prof. [Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ&hl=zh-CN). Before joining UvA, I obtained my master of engineering in the [Superconducting Quantum Computing Lab](https://siqse.sustech.edu.cn/Zh/Index/index?play=0), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). 
 
 
 Research Interests
