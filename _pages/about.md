@@ -20,6 +20,8 @@ Preprints and Publications
 (* denotes equal contribution)
 
 1. [Han, Zhikun, et al. "Multi-Level Variational Spectroscopy using a Programmable Quantum Simulator." arXiv preprint arXiv:2306.02110 (2023).](https://arxiv.org/abs/2306.02110)  
+2. Ziyan, Zhang, et al. "Towards Complete Quantum Network Stacks." arXiv preprint
+
 
 Education
 ======
