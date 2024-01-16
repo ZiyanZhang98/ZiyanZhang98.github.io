@@ -21,7 +21,7 @@ Preprints and Publications
 (* denotes equal contribution)
 
 1. "Multilevel variational spectroscopy using a programmable quantum simulator." Physical Review Research [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
-2. "Towards Complete Quantum Network Stacks." Under review at IEEE Network. 
+2. "Towards Complete Quantum Network Stacks." Submitted
 
 Education
 ======
