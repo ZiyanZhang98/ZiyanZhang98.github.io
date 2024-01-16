@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student affiliated by the Dutch National Growth Fund at [University of Amsterdam](https://www.uva.nl/), under the supervision of [Prof. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Prof. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Engineering from the [Superconducting Quantum Computing Lab](https://siqse.sustech.edu.cn/Zh/Index/index?play=0), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). During my master's studies, I was fortunate to work under the guidance of Prof. [Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and Prof. [Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao). 
+I am a Ph.D. student affiliated by the Dutch National Growth Fund at [University of Amsterdam](https://www.uva.nl/), under the supervision of [Prof. Dr. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Dr. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Engineering from the [Superconducting Quantum Computing Lab](https://siqse.sustech.edu.cn/Zh/Index/index?play=0), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). During my master's studies, I was fortunate to work under the guidance of [Dr. Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and [Prof. Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao). 
 
 
 Research Interests
@@ -20,15 +20,15 @@ Preprints and Publications
 ======
 (* denotes equal contribution)
 
-1. Han, Zhikun, et al. "Multilevel variational spectroscopy using a programmable quantum simulator." Physical Review Research [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
-2. Ziyan, Zhang, et al. "Towards Complete Quantum Network Stacks." arXiv preprint
+1. "Multilevel variational spectroscopy using a programmable quantum simulator." Physical Review Research [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
+2. "Towards Complete Quantum Network Stacks." Under review at IEEE Network. 
 
 Education
 ======
 - 2023.9 - Present, **University of Amsterdam**  
-Ph.D. in Computer Science
+Ph.D. Candidate in Computer Science
 - 2021.9 - 2023.7, **Southern University of Science and Technology**  
-MSc in Quantum Computing
+MSc in Applied Physics
 
 Experiences
 ======
