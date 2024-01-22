@@ -13,7 +13,7 @@ I am a Ph.D. student affiliated by the Dutch National Growth Fund at [University
 
 Research Interests
 ======
-I am currently conducting research on the integration of quantum and classical computing information, encompassing areas such as Circuit QED, quantum networks, and quantum information.
+Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.nl/), I am currently conducting research on the integration of quantum and classical computing information, encompassing areas such as theoretical computer science and quantum information.
 
 
 Preprints and Publications
