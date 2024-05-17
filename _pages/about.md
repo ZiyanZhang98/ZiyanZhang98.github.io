@@ -33,7 +33,7 @@ Experiences
 ======
 - 2023.3 - 2023.7, Student Researcher, BAIDU Research
 
-- 2021.9 - 2022.12, Research Assistant, Shenzhen Branch, Hefei National Laboratory
+- 2021.9 - 2022.12, Research Assistant, Shenzhen Institute of Quantum Science and Engineering, Southern University of Science and Technology
 
 - 2020.6 - 2020.10, Research Assistant, Institute of Computing Technology, Chinese Academy of Sciences
 
