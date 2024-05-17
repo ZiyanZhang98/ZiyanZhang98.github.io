@@ -13,14 +13,14 @@ I am a Ph.D. student at University of Amsterdam, under the supervision of [Prof.
 
 Research Interests
 ======
-Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.nl/), I am currently conducting research on the integration of quantum and classical computing information, encompassing areas such as theoretical computer science and quantum information.
+Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.nl/), I am currently conducting research on the integration of quantum and classical computing science, encompassing areas such as complexity theory and quantum information.
 
 
 Preprints and Publications
 ======
 
 1. "Multilevel variational spectroscopy using a programmable quantum simulator." Physical Review Research [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
-2. "Towards Complete Quantum Network Stacks." Submitted to IEEE Network.
+2. "Towards Complete Quantum Network Stacks." Accepted by IEEE Network.
 
 Education
 ======
