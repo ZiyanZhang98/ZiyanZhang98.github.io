@@ -33,7 +33,7 @@ Invited Talks
 
 Experiences
 ======
-- 2023.2 - 2023.8, Research Engineer, BAIDU Research, Shenzhen, China
+- 2022.10 - 2023.8, Research Engineer, BAIDU Research, Shenzhen, China
 
 Teaching
 ======
