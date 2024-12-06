@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at University of Amsterdam, under the supervision of [Prof. Dr. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Dr. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Science from the Superconducting Quantum Computing Lab, Southern University of Science and Technology. During my master's studies, I was fortunate to work under the guidance of [Dr. Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and [Prof. Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao). 
+I am currently a second year Ph.D. candidate at University of Amsterdam, under the supervision of [Prof. Dr. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Dr. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Science from the Superconducting Quantum Computing Lab, Southern University of Science and Technology. During my master's studies, I was fortunate to work under the guidance of [Dr. Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and [Prof. Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao). 
 
 
 Research Interests
@@ -26,8 +26,6 @@ Education
 ======
 - 2023.9 - Present, **University of Amsterdam**  
 Ph.D. Candidate in Computer Science
-- 2021.9 - 2023.7, **Southern University of Science and Technology**  
-MSc in Applied Physics
 
 Invited Talks
 ======
