@@ -18,11 +18,11 @@ Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.n
 
 Preprints and Publications
 ======
-1. Z. Zhang, F. Speelman, and P. Grosso, "Enhancing Position Verification in Multi-Node Quantum Networks," in IEEE INFOCOM 2025 - IEEE Conference on Computer Communications, London, United Kingdom, May 2025, pp. 9.52 [pdf](./enhanced_position_verification.pdf).
+- Z. Zhang, F. Speelman, and P. Grosso, "Enhancing Position Verification in Multi-Node Quantum Networks," in IEEE INFOCOM 2025 - IEEE Conference on Computer Communications, London, United Kingdom, May 2025, pp. 9.52 [pdf](./enhanced_position_verification.pdf).
 
-2. Z. Zhang, F. Speelman, and P. Grosso, "Toward Complete Quantum Network Stacks: A Survey," in IEEE Network, vol. 38, no. 5, pp. 153-159, Sept. 2024, doi: [10.1109/MNET.2024.3402951](https://ieeexplore.ieee.org/abstract/document/10534276).    
+- Z. Zhang, F. Speelman, and P. Grosso, "Toward Complete Quantum Network Stacks: A Survey," in IEEE Network, vol. 38, no. 5, pp. 153-159, Sept. 2024, doi: [10.1109/MNET.2024.3402951](https://ieeexplore.ieee.org/abstract/document/10534276).    
 
-3. C. Lyu, Z. Zhang, et al., "Multilevel Variational Spectroscopy Using a Programmable Quantum Simulator," Physical Review Research, vol. 6, no. 1, pp. 013015, Jan. 2024, doi: [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
+- C. Lyu, Z. Zhang, et al., "Multilevel Variational Spectroscopy Using a Programmable Quantum Simulator," Physical Review Research, vol. 6, no. 1, pp. 013015, Jan. 2024, doi: [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
 
 Education
 ======
