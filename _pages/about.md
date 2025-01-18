@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year Ph.D. candidate at University of Amsterdam, under the supervision of [Prof. Dr. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Dr. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Science from the Superconducting Quantum Computing Lab, Southern University of Science and Technology. During my master's studies, I was fortunate to work under the guidance of [Dr. Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and [Prof. Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao). 
+I am currently a second year Ph.D. candidate at University of Amsterdam, under the supervision of [Prof. Dr. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Dr. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Science from the Superconducting Quantum Computing Lab, Southern University of Science and Technology. During my master's studies, I was fortunate to work under the guidance of [Dr. Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and [Prof. Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao).
 
 
 Research Interests
 ======
-Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.nl/), I am currently conducting research on the integration of quantum and classical computing science, encompassing areas such as quantum communication and quantum information.
+Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.nl/), I am currently conducting research on the integration of quantum and classical computing science, encompassing areas such as quantum communication, quantum information and network virtualization.
 
 
 Preprints and Publications
 ======
-1. "Multilevel variational spectroscopy using a programmable quantum simulator." Physical Review Research [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
-2. "Towards Complete Quantum Network Stacks" in IEEE Network, doi: [10.1109/MNET.2024.3402951](https://ieeexplore.ieee.org/abstract/document/10534276).    
-3. "Enhancing Position Verification in Multi-Node Quantum Networks." To appear in INFOCOM 2025.
+1. Z. Zhang, F. Speelman, and P. Grosso, "Enhancing Position Verification in Multi-Node Quantum Networks," in IEEE INFOCOM 2025 - IEEE Conference on Computer Communications, London, United Kingdom, May 2025, pp. 9.52 [pdf](enhanced_position_verification.pdf).
+
+2. Z. Zhang, F. Speelman, and P. Grosso, "Toward Complete Quantum Network Stacks: A Survey," in IEEE Network, vol. 38, no. 5, pp. 153-159, Sept. 2024, doi: [10.1109/MNET.2024.3402951](https://ieeexplore.ieee.org/abstract/document/10534276).    
+
+3. C. Lyu, Z. Zhang, et al., "Multilevel Variational Spectroscopy Using a Programmable Quantum Simulator," Physical Review Research, vol. 6, no. 1, pp. 013015, Jan. 2024, doi: [6.1 (2024): 013015](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.013015).
 
 Education
 ======
@@ -33,8 +35,8 @@ Invited Talks
 
 Experiences
 ======
-- 2022.10 - 2023.8, Research Engineer, BAIDU Research, Shenzhen, China
+- 2023.2 - 2023.8, Research Engineer Intern, BAIDU Research, Shenzhen, China
 
 Teaching
 ======
-- TA, Network and Network Security, Fall 2024 -->
+- TA, Network and Network Security, Fall 2024
