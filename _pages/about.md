@@ -18,6 +18,8 @@ Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.n
 
 Preprints and Publications
 ======
+- Z. Zhang, F. Speelman, and P. Grosso, "Leveraging SDN Control for Time-Precise Quantum Position Verification", in IEEE QCNC 2025 - International Conference on Quantum Communications, Networking, and Computing, Nara, Japan, March 2025 [pdf](./SDN_enabled_Quantum_Position_Verification.pdf)
+
 - Z. Zhang, F. Speelman, and P. Grosso, "Enhancing Position Verification in Multi-Node Quantum Networks," in IEEE INFOCOM 2025 - IEEE Conference on Computer Communications, London, United Kingdom, May 2025, pp. 9.52 [pdf](./enhanced_position_verification.pdf).
 
 - Z. Zhang, F. Speelman, and P.Grosso, "Leveraging SDN Control for Time-Precise Quantum Position Verification", in IEEE QCNC 2025 - IEEE International Conference on Quantum Communications, Networking, and Computing, Nara, Japan, March 2025 [pdf](./QCNC_2025_paper_125.pdf)
