@@ -33,11 +33,11 @@ Ph.D. Candidate in Computer Science
 
 Invited Talks
 ======
-- 2024.5， ‘Towards complete and feasible quantum networks', CompSys 24, Den Bosch, the Netherlands
+- 2024.5, ‘Towards complete and feasible quantum networks', CompSys 24, Den Bosch, the Netherlands
 
 Experiences
 ======
-- 2023.2 - 2023.8, Research Engineer Intern, BAIDU Research, Shenzhen, China
+- 2023.2 - 2023.8, Research Engineer, BAIDU Research, Shenzhen, China
 
 Teaching
 ======
