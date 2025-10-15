@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ziyan Zhang's Page"
 title_separator          : "-"
 name                     : &name "Ziyan Zhang"
-description              : &description "PhD Student, University of Amsterdam"
+description              : &description "PhD Candidate, University of Amsterdam"
 url                      : https://ziyanzhang98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziyan Zhang"
   avatar           : "images/bio-photo.jpg"
-  bio              : "PhD Student, University of Amsterdam"
+  bio              : "PhD Candidate, University of Amsterdam"
   location         : "Amsterdam, Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -40,6 +40,7 @@ Invited Talks
 Experiences
 ======
 - 2023.2 - 2023.8, Research Engineer, BAIDU Research, Shenzhen, China
+
 Developed quantum noise simulation and optimization modules in **PaddlePaddle Quantum**, focusing on improving circuit compilation and performance under realistic noise conditions. Designed and implemented algorithms for **quantum circuit optimization** and built simulation support for major types of quantum noise, enabling efficient execution of **high-depth quantum circuits**. 
 
 
