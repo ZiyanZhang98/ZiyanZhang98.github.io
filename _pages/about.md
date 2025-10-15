@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year Ph.D. candidate at University of Amsterdam, under the supervision of [Prof. Dr. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Dr. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Science from the Superconducting Quantum Computing Lab, Southern University of Science and Technology. During my master's studies, I was fortunate to work under the guidance of [Dr. Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and [Prof. Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao).
+I am currently a third year Ph.D. candidate at University of Amsterdam, under the supervision of [Prof. Dr. Paola Grosso](https://scholar.google.com/citations?user=cXsfHbsAAAAJ) and [Dr. Florian Speelman](https://scholar.google.nl/citations?user=hX_ToHkAAAAJ&hl=en). Prior to my doctoral studies, I obtained my Master of Science from the Superconducting Quantum Computing Lab, Southern University of Science and Technology. During my master's studies, I was fortunate to work under the guidance of [Dr. Fei Yan](https://scholar.google.com/citations?user=GRj9Hk0AAAAJ&hl=en&oi=ao) and [Prof. Yuan Xu](https://scholar.google.com/citations?user=gkON9RkAAAAJ&hl=en&oi=ao).
 
 
 Research Interests
 ======
-Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.nl/), I am currently conducting research on the integration of quantum and classical computing science, encompassing areas such as quantum communication, quantum information and network virtualization.
+Affiliated with the [Quantum Delta Netherlands Programme](https://quantumdelta.nl/), I am currently conducting research on the integration of quantum and classical computing science, encompassing areas such as network management,  network virtualization, and quantum information.
 
 
 Preprints and Publications
@@ -33,12 +33,17 @@ Ph.D. Candidate in Computer Science
 
 Invited Talks
 ======
-- 2024.5, ‘Towards complete and feasible quantum networks', CompSys 24, Den Bosch, the Netherlands
+- **May 2025**, ‘Towards complete and feasible quantum networks', presented at **CompSys 24**, Den Bosch, the Netherlands
+
+- **July 2025**, “Enhancing Position Verification Using Quantum Networks”, presented at **IETF 123 QIRG Session**, Madrid
 
 Experiences
 ======
 - 2023.2 - 2023.8, Research Engineer, BAIDU Research, Shenzhen, China
+Developed quantum noise simulation and optimization modules in **PaddlePaddle Quantum**, focusing on improving circuit compilation and performance under realistic noise conditions. Designed and implemented algorithms for **quantum circuit optimization** and built simulation support for major types of quantum noise, enabling efficient execution of **high-depth quantum circuits**. 
 
-Teaching
+
+Teaching and Supervising
 ======
 - TA, Network and Network Security, Fall 2024
+- TA, Network and Network Security, Fall 2025
