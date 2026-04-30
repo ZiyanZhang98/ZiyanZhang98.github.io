@@ -37,11 +37,11 @@ Education
 - 2023.9 - Present, **University of Amsterdam**  
 Ph.D. Candidate in Computer Science
 
-Invited Talks
+<!-- Invited Talks
 ======
 - **May 2025**, ‘Towards complete and feasible quantum networks', presented at **CompSys 24**, Den Bosch, the Netherlands
 
-- **July 2025**, “Enhancing Position Verification Using Quantum Networks”, presented at **IETF 123 QIRG Session**, Madrid
+- **July 2025**, “Enhancing Position Verification Using Quantum Networks”, presented at **IETF 123 QIRG Session**, Madrid -->
 
 Experiences
 ======
@@ -57,6 +57,6 @@ Teaching and Supervising
 - TA, Network and Network Security, Fall 2024
 - TA, Network and Network Security, Fall 2025
 
-Grant 
+<!-- Grant 
 ======
-- Quantum Delta Netherlands PhD Research Visit Grant, QDNL-250113 AL3.5.11P2, 5000 EUR, Dec 2025
+- Quantum Delta Netherlands PhD Research Visit Grant, QDNL-250113 AL3.5.11P2, 5000 EUR, Dec 2025 -->
